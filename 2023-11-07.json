@@ -1,0 +1,26 @@
+{
+  "name": "Don Soto",
+  "age": 61,
+  "address": {
+    "street": "Uwcid Avenue",
+    "city": "Gufsucoj",
+    "state": "LA",
+    "zip": "99003"
+  },
+  "contact": {
+    "phone": "(936) 973-3567",
+    "servicePhone": "800745344"
+  },
+  "birthday": "1991-11-10T09:26:08.420Z",
+  "ip": "178.97.181.174",
+  "foo": "bar",
+  "profile": {
+    "about": "Viju wag onaam bi bi tolbegin toepje ci bim lenmed uzmuwu mighu fen. Di vuko gasbeza lez sew go jugar urnote ja kav fegu zibo nif jas to. Bun pi uslonpin be me giw fohhu kiew coso cahe fis vej gonico weatu.",
+    "bio": "Mevurhij lawezvo ibo biat lateh lowmaib pedama tami he sa suraez mozfimne del vijubic nojegaw rew. Lovul ohbihse cu re tihmuta obaba rahuza wuw kukvagpe foirebok wi jevuf peku irizoshi. Kenug jugoh huuligic ga gesi latadbi murzej fodab vunan pasiledi zon juvi fajeohe edew. Wokoja pa lefbeb vuuwwu banwufpo dihewori awomopik remihiba mar cuisifo le diiro."
+  },
+  "apiKey": "379868407e47d48559bd1972496d5a2ee9dc03177c1dac9242bb79adf13fb84e",
+  "currency": {
+    "code": "BWP",
+    "name": "Botswana Pula"
+  }
+}
