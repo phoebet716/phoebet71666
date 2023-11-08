@@ -1,0 +1,26 @@
+{
+  "name": "Douglas Marsh",
+  "age": 19,
+  "address": {
+    "street": "Puva Heights",
+    "city": "Daplethe",
+    "state": "VT",
+    "zip": "75487"
+  },
+  "contact": {
+    "phone": "(368) 333-9924",
+    "servicePhone": "800395659"
+  },
+  "birthday": "1965-09-21T02:17:15.749Z",
+  "ip": "188.163.19.144",
+  "foo": "bar",
+  "profile": {
+    "about": "Sulefoud vad zopulum ul vimvumib vu wa zurdog jubil binmedez dij ripulzul juic amupoh duwi. Limja wihupa pubur be sifok car fap lojvo uzujih be fargi gesi pevbak siag eti lef rafe curi. Renlo hur ova poznelgu pufu ba vaz rucwiko lutsosket sifeko peguh jiba.",
+    "bio": "Temob vikutovam nu mol ep buuhiz kovseflev tu feudpop zi vusnivek coc jehjezdup bezlo. Risgid gona icapipi mumjorok tofemicu gimedfe zadaf oda ujugipo fali duc wuger gunef kom kupper apoalli. Riojpam zelunhab itula kufwuwib darhopo igeroc mad ji ezoke wohpi firihiw vaikiuk duk dos tofefwum. Il edagezod vor deuf ha hibi ca asigedwu kulamo ki na jed mu."
+  },
+  "apiKey": "62fe3215516e2f78e4707cc072637226828efe4f382243b029ac45880829a4f0",
+  "currency": {
+    "code": "MKD",
+    "name": "Macedonia Denar"
+  }
+}
