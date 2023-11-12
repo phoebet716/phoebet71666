@@ -1,0 +1,26 @@
+{
+  "name": "Belle Alexander",
+  "age": 23,
+  "address": {
+    "street": "Wefor Drive",
+    "city": "Wecpewko",
+    "state": "MA",
+    "zip": "86136"
+  },
+  "contact": {
+    "phone": "(540) 294-5006",
+    "servicePhone": "800225423"
+  },
+  "birthday": "1969-05-30T10:16:39.576Z",
+  "ip": "190.34.99.143",
+  "foo": "bar",
+  "profile": {
+    "about": "Kofo ziwarze fon demij kag zata raja rosgipu ze opalomaf li dalus fectel kasmif zedod. Diba awiobogam ojala diizfos ohjacvah tobni ewiiwikok mibefwi lib waneno goic japok sitipme etijahob isu unali dabez susloawu. Tob cahi koz savumuk edkuz uceuvgug kumunok hagnomo fajoh itutafov saveka gemi fiimla.",
+    "bio": "Udozotbe zotfoni vec abdij ar labzugab naltebvuh bi doasaju bufitma bu re abowito jeigiwoj uciver unfo kocre zelvukow. Awiritka pitace rimlopud ujpidu fezbaih faacu vefhan oge bajezgub cawekih sonume puc ociguv sikagi rim wo pihre. Otiwac fonzuk jutdeh ijsalpop zekov hovicu fufes poihu zowa vop cisjujoj abjevjow wiwdej fa wuf uhjanab cocpuv."
+  },
+  "apiKey": "2ee43ed629af6fc443ce5192862e538f3888f38755a906c0ef19b5420aeb056e",
+  "currency": {
+    "code": "ARS",
+    "name": "Argentina Peso"
+  }
+}
