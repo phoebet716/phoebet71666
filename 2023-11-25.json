@@ -1,0 +1,26 @@
+{
+  "name": "Isabella Wright",
+  "age": 50,
+  "address": {
+    "street": "Kanuk Road",
+    "city": "Jaszeroco",
+    "state": "VT",
+    "zip": "05515"
+  },
+  "contact": {
+    "phone": "(674) 657-2434",
+    "servicePhone": "800579175"
+  },
+  "birthday": "2001-01-22T20:56:37.057Z",
+  "ip": "186.141.188.12",
+  "foo": "bar",
+  "profile": {
+    "about": "Huk kakha wis sumoij wairoucu nu bamit be lu verfu tudzogjub eh zuprup fetiz ewuwiok oclujej cu nadwam. Reatizi kipu na uzjaf naucgul ijkiwba zege hupuj bit lar ala uhe wugovir tiub. Nobhobcow dubbaduc dog bi ronihu ehuzcu ofo modoc avkob fi fota ur udasah.",
+    "bio": "Le waw zabide kupo afvihik bu adbos ofrajel li kupizcem kekur feik mejfotji. Tod cethewef ri vumcijkam kotev ammem jicium fimiljuz efiho meftu fobni be sakpav. Eg almodna pevul weiljed setu senipi nubu se pedigo vaenimu ve hepwejpe vo."
+  },
+  "apiKey": "82deebff1052a45208910d4d2e0f56a15e7665a3eb253cc6d0236c56c799f66e",
+  "currency": {
+    "code": "TND",
+    "name": "Tunisia Dinar"
+  }
+}
