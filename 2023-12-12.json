@@ -1,0 +1,26 @@
+{
+  "name": "Sally Haynes",
+  "age": 63,
+  "address": {
+    "street": "Uvno Court",
+    "city": "Tirukem",
+    "state": "MI",
+    "zip": "51429"
+  },
+  "contact": {
+    "phone": "(712) 859-9145",
+    "servicePhone": "800163671"
+  },
+  "birthday": "1984-01-08T05:13:48.509Z",
+  "ip": "220.119.50.210",
+  "foo": "bar",
+  "profile": {
+    "about": "Mi za fab iw alwu wodmef ibesvo ir tuhuji kuzooki sis wencerfa kijgeg avkiuru jiwo gashewa cusir. Danirid rirad iru eme bo ki cu tinfahwop akhat wubbedzu vebnaore cozcu al al. Laza awpelma igbof kapwaz socanute nih cifu huke putic ma findakzuv tur pozfojwij usemovjov. Ul hezomoc mozoji dizso ockikej fefow se dor simwu submel ajokhi fohmejep jitwip fe okguog arubogig. Kuh owezuj ce uv tutwib zotsiw usu pozel niwagni zirvoveg mowtim ge. Omomubohu kajjuhiz ehujov on wokudkuz ara sicouf pum vub retkag suk podke rikog conduohu ubsevha nefog upu pefjalvag.",
+    "bio": "On ibbagup eme sifeb ihisucwip wobde ga beta rov rug havtu jafo muk torlegow ew hega tisnidan. Munniccag ju tivfuve ulu du oti vaksep taijipo taremhi ah teh tabvais ugvelip vuh cep su. Jil engook oso la vu toze wule evuurtoh kabaz pel raap si asenajiz wo famu gecroul ebpe. Pis saugote feg vartouza anvedci far veb jiujgu wuzgirras nizdaro mitomug ogunewdow izitabif bobi."
+  },
+  "apiKey": "346866b17b4d80e0fbb70aab8bc238df151bc977952abbb58e1b50e86b963384",
+  "currency": {
+    "code": "ARS",
+    "name": "Argentina Peso"
+  }
+}
