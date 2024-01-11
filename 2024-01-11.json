@@ -1,0 +1,26 @@
+{
+  "name": "Alice Hawkins",
+  "age": 26,
+  "address": {
+    "street": "Ucata Drive",
+    "city": "Mafakpem",
+    "state": "AZ",
+    "zip": "21239"
+  },
+  "contact": {
+    "phone": "(762) 832-2126",
+    "servicePhone": "800683755"
+  },
+  "birthday": "1985-07-02T12:31:33.176Z",
+  "ip": "7.91.219.205",
+  "foo": "bar",
+  "profile": {
+    "about": "Nup kukuv udcu rav debewa geh ot conlu ojmuwon hundi ogi gobimjiz go veg tarfugab. Midi moafhe tiev hutim sug orebiiti ufbe suzeji pimigwo hosaret muvemkar linlawimu sovucjof ibagorfov wupsi abne bavdobuv. Lel fih gopufir ri uhototu lug dup haaz fi jutlotdi gevi ri wul zihu nate jalo. Isatiki ginehot koj tija kilete un hadcifru wa nanpirhiz midcohriz la jadbocuw agmemne ho zomisesi ebto.",
+    "bio": "Sis geova utobiko uci owuda japwe hipdeku uci ja ke howu jo guflirma ufure jicte banur ugoar gi. Ma ta ogaaj hez unzu povpebvu hocsef kuwote muzoiga timojfo runvat pabwicfu. Cowuzo jir bufabtam pu holowfu marah kek imonop menni degsigli emfa ruzop uwo guuh zeruwi ilihi. Secab ukekup obo uraefhig fo agi uwa dadiwon bacjij bosec za danki. Duga cifuv ezi eju zefap arusethad ulce kuwwibci mekton diw owivemkek hev kauvwa hubuhedif worbopu. Pomra rolfamet cabbofze wo ittolzez op uw bu col temsume copupujep efokomraz."
+  },
+  "apiKey": "2f3e40651f78a2bcdac06ec1fe70aa877305ecbd0d77b050f9fa32d5c26905fc",
+  "currency": {
+    "code": "MZN",
+    "name": "Mozambique Metical"
+  }
+}
