@@ -1,0 +1,26 @@
+{
+  "name": "Travis Duncan",
+  "age": 60,
+  "address": {
+    "street": "Wituj Avenue",
+    "city": "Fozadwus",
+    "state": "TX",
+    "zip": "40346"
+  },
+  "contact": {
+    "phone": "(688) 310-5903",
+    "servicePhone": "800653132"
+  },
+  "birthday": "1978-09-27T13:30:25.033Z",
+  "ip": "232.57.224.244",
+  "foo": "bar",
+  "profile": {
+    "about": "Ri kedi leofo hona lonafoke ezbutfij risuciv zasuvkor cewzehco kafli vov mi metocpi uvuokoza baracu. Ki pig du zebi ho uler het tovik ovuocda ku baf zena loj vuzalmi kupokef. Hec tedbi wupviket riwfiv usasu hoplowi ki rephu levrepbiz vajaud nibezpas wusitne woriiv omumout kine til.",
+    "bio": "Kimkiwo no kamo ubieja mi eje fi orjo lih ji epsobar dufdag. Ga mo rathozev re zifi me kiwo lilvewef if ohabbam til uk wuk birissi vufvij zugfed egjekoj. Re ekwa rak lar sapbubo to ef zaw dis zaw diz fa abu jo. Dor owuzep jogi mu owazaod fevzol jasut oma li zututis ka ju vatju wobivumu bojles totkenvo."
+  },
+  "apiKey": "b3ab831fd9660e926f2d560a47375d5a914eecd2f561f53f81d840de2621fcb3",
+  "currency": {
+    "code": "CNY",
+    "name": "China Yuan Renminbi"
+  }
+}
