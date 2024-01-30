@@ -1,0 +1,26 @@
+{
+  "name": "Robert Pope",
+  "age": 24,
+  "address": {
+    "street": "Umve Plaza",
+    "city": "Necirena",
+    "state": "RI",
+    "zip": "19694"
+  },
+  "contact": {
+    "phone": "(938) 416-6581",
+    "servicePhone": "800685557"
+  },
+  "birthday": "1981-05-03T12:44:37.970Z",
+  "ip": "129.226.24.65",
+  "foo": "bar",
+  "profile": {
+    "about": "Vuti begheve pudika voziv idu pokev fa pakapa kawsiji giwovajo efiguror nozitof zib tikra. Mibhiv bade hihbep zejto apova gofatno musgek we gamuppur guwhu bufola obu zuprik. Ci culiwa ucipas jej lifsi baede jicnav abefozbes johumi tubawifi wiapa gogiropi fizetibi etpir zejjabe nu pivjurlo.",
+    "bio": "Seffi gumi diz ca hogwul uhocouv ji weno hiun jitu bik lug jocnowu geh suzar ar so jitwef. Coz kiwej bame buca ko gu urnik goraon ji busozfa feifi zerzaice. Ta imicurtaw setjokapi guritub vat eju tale zoponojid aw gifho visi vudsu cun uloubanaz jerbilad pim. Etrom lefazpom mivgat sid zilojde haom apinoto nasutdot aggo panbi pa op sokve rewjos budod api."
+  },
+  "apiKey": "21a4e9aa5bdcd004088e0031238436b0d9825631349dbf856f5b8f1b12e747dc",
+  "currency": {
+    "code": "XCD",
+    "name": "East Caribbean Dollar"
+  }
+}
