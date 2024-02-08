@@ -1,0 +1,26 @@
+{
+  "name": "Tom Perez",
+  "age": 25,
+  "address": {
+    "street": "Rugbo Path",
+    "city": "Daujair",
+    "state": "SC",
+    "zip": "26246"
+  },
+  "contact": {
+    "phone": "(504) 391-9693",
+    "servicePhone": "800417631"
+  },
+  "birthday": "1985-07-09T21:43:48.316Z",
+  "ip": "215.142.238.25",
+  "foo": "bar",
+  "profile": {
+    "about": "Namvuli dikasun vihodla ugbumu rudarwul lutjuvluz dito ob jug ji bafu pumomo hewuboj pov ivlutok ra inehuup nodhuc. Jazivjog junhonvo jol buwovo memcawe ve ni ho lav jepuut fehbu mobjoavo cavak cewvohut lu. Ij vipiopa zonbuv afgisjud dodojleh niv enehelve detvi levla figecna li socke meos fiutu ujbuzir dejihe. Idluk redhoon paldudi ejunoig geshigal awidapu anbupi miljok deje hebbaste osaval no hukat bovfud. Re azuzucop ceboj rorpep buutwi maf cukva bo arpes visemsa uza rod.",
+    "bio": "Gelze josian do sa gip mukon no rug igag dajwadfeb taja fufev. Jinohdef wizuma toge fa vojka inekad eke ih fu nozhag ni vijo. Zuwfeki jis maf zoz berulo va rato robcice londoz lomgi onvela no ewedum sozefsuv. Revijnuw ben ag ronioz rapi kuupvob tuudi oko rada gev sasuiwu nu nen neffa dizka vag. Tugpipuh erejese re je jacollah dis hukewe gepwesus funivu wedegobo veteisi mofmuwug rubzado imuwu vof ela oda rovoka."
+  },
+  "apiKey": "1dd8df3d4f317904344908c3aa62d2ba35fa30640e903b6554604d886e374858",
+  "currency": {
+    "code": "AOA",
+    "name": "Angola Kwanza"
+  }
+}
