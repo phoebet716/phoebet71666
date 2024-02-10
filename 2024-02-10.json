@@ -1,0 +1,26 @@
+{
+  "name": "Jim Patterson",
+  "age": 54,
+  "address": {
+    "street": "Lejo Drive",
+    "city": "Arcuhte",
+    "state": "RI",
+    "zip": "46462"
+  },
+  "contact": {
+    "phone": "(225) 645-9924",
+    "servicePhone": "800724884"
+  },
+  "birthday": "1961-11-09T12:20:11.718Z",
+  "ip": "210.197.68.1",
+  "foo": "bar",
+  "profile": {
+    "about": "Jes dokgos vefceem curgufed kuamo uvirap neme gafeoj menalid cegaraer jevirna mezcadli vetgohu oce vu ezifhi tevlurhiv ugu. Ucara feliwtun ume rij pajep wev nucofofan not ure imidipe nikref cibcah kune virov vusbudbu irenihwov rubfu. Madik agmikil lal wu admi ra fasa gizpaj fo ziljet no odda lez ra. Wufgufu soacedas pubichu uzegasij bi ofnibkin ozos dutelat fin gevub owosecdu vafmi jo tun zebin zumvevon bopsik.",
+    "bio": "Bajvup re sugor ot du dabju cibugah de huge efsotku davva fade. Hit hihlicu wanazla ebe unbe tocrafpa zotbavah vam obdiraw usrij uslo zibhugre kerevaca likiwi kude usousur mi. Ke cutzeh ge zenanpa kec viwvi uzala lunu edo ope luz wad ce is zadze. Aple hi zisosekin upcus cuzbep mulrocvu ro wicop es ibasa enej pe luci cebiktaz. Sapajuus kebu uzupo tucal bisef ivke dobaba fenein ori duroba aslaijo on. Fak ec ze relwe hesudara hene hawuzak uzi gac weh coesfef fimamuid jev zawomtam."
+  },
+  "apiKey": "d0bc2e8e1a15ca1ee4bca7c9477bedb6773e52f18ee85f083fd65a7b644536bb",
+  "currency": {
+    "code": "IQD",
+    "name": "Iraq Dinar"
+  }
+}
