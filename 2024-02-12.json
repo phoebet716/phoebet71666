@@ -1,0 +1,26 @@
+{
+  "name": "Billy McGuire",
+  "age": 23,
+  "address": {
+    "street": "Idliw Pass",
+    "city": "Gihewo",
+    "state": "NY",
+    "zip": "90052"
+  },
+  "contact": {
+    "phone": "(578) 527-7696",
+    "servicePhone": "800179697"
+  },
+  "birthday": "1971-10-19T15:10:55.160Z",
+  "ip": "33.105.21.232",
+  "foo": "bar",
+  "profile": {
+    "about": "Ukoniru dolo wedjuh lo enid egicom iguses ak luduwi ako sihvotmud furic. Vapoj rijih zimas wiv we lu tepif za tawwuroti nuakoume cedfor ezafivpeg. Vacbo cahdu ci vu omno ozaiti pili duhihois woladus cirvodhil homev obu sez ig ercufpo cizej. Hafpuj is ece guuhigog jo cu fas nabib ew nimaw wuw juvon noter wamebule suajireb hibtuh rehfoug. Pe duwufi bumgoculo cisapahif tepsiwwib gavibu uwuini bonuf te cirgori tohpeane gizin hivdoj uzenikel ze vithe.",
+    "bio": "Jos osi kelwezgon pogibboc beom def hubjucde usisorhi cojefhib letga wetlew jizvubwi kif. Rok at vu na dajat kazlohole sosta aprijzo la donpitwom nulupfok visifif bunelimiz ter. Hohorre su pumbof uvorosa wal fer wusjepi dobtorpe mu acti peb bizibbos si jatu lenfaw ko ivuzucnud."
+  },
+  "apiKey": "47059dfc4599d5da74d1d6d80983326c5afc5ad45ae1da3bca0ffbc2776f64bf",
+  "currency": {
+    "code": "KHR",
+    "name": "Cambodia Riel"
+  }
+}
