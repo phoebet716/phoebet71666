@@ -1,0 +1,26 @@
+{
+  "name": "Jerome Turner",
+  "age": 46,
+  "address": {
+    "street": "Vuzcu Way",
+    "city": "Deitusa",
+    "state": "AK",
+    "zip": "41775"
+  },
+  "contact": {
+    "phone": "(856) 669-1215",
+    "servicePhone": "800568552"
+  },
+  "birthday": "1969-09-05T05:03:43.793Z",
+  "ip": "227.71.64.70",
+  "foo": "bar",
+  "profile": {
+    "about": "Tan nudiewu cep ne le suatik faniifu ev si zoka terfumi ihfa jetojma. Opaerma rujiddak bew ebe gofuwi ahijuk femvenas tum piwun birha eviwohmel nobiw vaenkaf wisvoir. Dezew viukuaji vekutwa evjucuc cof peziwa evjizhu efu unotu ni remetaf ta kah ezegaf iwvasaj difliwaf. Sacud vofa be lem le ritbogfe duije siknegwih kacpezfep utuviiwa edwohmit ficanege ze murjuze. Malet padhe ojeoju zufo mutu vor jigwaz evo ozionimi sa tildec hucodmi hihatub.",
+    "bio": "Ti ade ure fe ra fudbobu etuatbu bod woc buvnoba ihezil huvsi wac. Zu ve ug nofmabe pahucoaki wu izo runre cinon waknu rozav vujozi hu atsutuk zezzapub ol gajuena. Piszuvto dat zowef resmup ogugebi uni covi vuco vug vi opu tilochob luip sunhu femuw hekipom."
+  },
+  "apiKey": "4cb5ebcb927239c276938039c32d3c2eec1a5d2467743890f670997eb641d0f7",
+  "currency": {
+    "code": "XOF",
+    "name": "Communauté Financière Africaine (BCEAO) Franc"
+  }
+}
