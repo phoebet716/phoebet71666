@@ -1,0 +1,26 @@
+{
+  "name": "Sam Henry",
+  "age": 18,
+  "address": {
+    "street": "Ralred River",
+    "city": "Voscanron",
+    "state": "MD",
+    "zip": "02188"
+  },
+  "contact": {
+    "phone": "(540) 617-9682",
+    "servicePhone": "800952849"
+  },
+  "birthday": "1960-08-08T14:27:23.712Z",
+  "ip": "175.19.242.32",
+  "foo": "bar",
+  "profile": {
+    "about": "Sagoha okicir wa pojgoges tet oh nabaguc zalduvlum ji li cazeuk potuhre ben dujeuhu ocipamhuh. Lu me ucovuh bibwugeti za lec imehe daf taabu izu ozejo ikoka bekacev afowani vietehi tan. Facip epuus bahzep fe enhimozi weh pas ro ko dubbi egi gon koho ves uke. Algaab feiwo jesre kan vofubrez avulik hasnow bejlen rubrip idto si uruda mopdarsi. Nusot cewrulhe osbi so zu za bekarta punbez wij mel sol ki fe ha. Calevir dambo wuc waanova huhjezo sahizi esabovhuh ciipu zusi ajo fa tevesuewo po roda lofe radvubga. Zag at pab sas in gesajfi ole upovoja dowvawi joprebzap darudmeg fiugieli kidabva oj.",
+    "bio": "Giwa bade zunu natucbu zonpoca ber ta to tusfo ja wa zad nifezin sem vo. Ta podvic civ maju bozhihodu nashu gudjusif le iv eduzu pobpig wo atu firmub uhu mu we. Zon ewu zidun lerevbo dolin eh ici gu foru vas onha jukisiune alevahbu wujviha fuoronej. He zipe vumeh sabtu ratasaat uj cojoz jifi gus eja hiworoz fomgepan lokobnu se li. Ocaup adu amohebo micze kiptaz roh lakda cer ini nog wum ramlodzi wihluk acauk beibibul bocla. Nedmitob luak wan fojgefigi gugujreg lobwogaf ge piropis dipud vu noitga em hi rew gek luj. Me jacjut ralofhu felej be tacze onja nagtefec tepem zumva ve jumti jad fu laboila udwacsa sis vevileta."
+  },
+  "apiKey": "6e34e6cdca175153d518e8baade12dfbbee4fcf6018dbe94c891d8040677795a",
+  "currency": {
+    "code": "GHS",
+    "name": "Ghana Cedi"
+  }
+}
