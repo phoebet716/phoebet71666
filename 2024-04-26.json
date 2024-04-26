@@ -1,0 +1,26 @@
+{
+  "name": "Alan Tate",
+  "age": 38,
+  "address": {
+    "street": "Liiku Boulevard",
+    "city": "Verlabij",
+    "state": "OH",
+    "zip": "99514"
+  },
+  "contact": {
+    "phone": "(545) 933-7728",
+    "servicePhone": "800823861"
+  },
+  "birthday": "1975-01-17T05:48:15.642Z",
+  "ip": "236.29.38.198",
+  "foo": "bar",
+  "profile": {
+    "about": "Bufrikvo icizu eg gijisour nopocmo go sed pehu raflid wudnes wumij os onovema me naogo gomul vijpufal. Wuzci dafla nehavobu juhubub rasuwi winkac ajev ogwu uvewujza nucpijcos zi mugowow. Pup macez etewalpek buero ip bo isza viopumi dezcobat feca ikfake gi sigte pitbugpo tike. Afeju apmostuv oguajmiv hodoj na wi rerazga mejo itmiscep uk tuvdaw pa tidgaru.",
+    "bio": "Iru do be vassukiwo ujaricga zumuzat zu riwun hojdi mundiki tehiw hubde odukum. Jaw aloarce ehe lacal poilewo zubalhe horsig es owi ot rakwoil kupzo lotwasim nefe. Fuju wowep nunacna junub mek ifbelo lacdawiti lu asaze am cop ti cafapar."
+  },
+  "apiKey": "7aeb7d0f26e9d2fe8f1d6280541bbe979e7f758021e075f9b44caa800bc97e7a",
+  "currency": {
+    "code": "SAR",
+    "name": "Saudi Arabia Riyal"
+  }
+}
