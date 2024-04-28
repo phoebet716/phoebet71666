@@ -1,0 +1,26 @@
+{
+  "name": "Vincent Gregory",
+  "age": 57,
+  "address": {
+    "street": "Tasziv Point",
+    "city": "Gemaas",
+    "state": "IA",
+    "zip": "02432"
+  },
+  "contact": {
+    "phone": "(234) 354-6699",
+    "servicePhone": "800878997"
+  },
+  "birthday": "2006-09-28T20:33:12.843Z",
+  "ip": "1.178.177.149",
+  "foo": "bar",
+  "profile": {
+    "about": "Usoganu ru gorjig lofapdud suzzuw namuvi najdu gapke dek vormo seta poldewo epefir vupip cifim zacvacu. Wuwovu mih udu urma id nu sahudaj luhsozpez tig babezuv jucepif fanhor luv. Ac vivughi zohebifab mu lowpimkuc wite fud tuszad finone jatmo nu kitilpe.",
+    "bio": "Te elituc dinivcat li gokaro wic umvirru geusano cobbewor ketta izoci hicfed nocnac ohegiw. Cik okupufeg sewug kewaj alusija iddegva veidi pegcoku jaknijeco rudedmaw egi initabdo wucukat ge. We ucgeim od om fi it maevivi oh ufi muna ehaati mot new uklo hij bodul. Efu wubon ja talata gimwo reha nuroowe verjo jukruc hucdune gotog asahiudo wenle nahpev azpotgi ra su taslec."
+  },
+  "apiKey": "0c3a3915d83755e60a31cc55f87faa388614591e94537a04921cec98c01e6d0f",
+  "currency": {
+    "code": "DJF",
+    "name": "Djibouti Franc"
+  }
+}
