@@ -1,0 +1,26 @@
+{
+  "name": "Stephen Potter",
+  "age": 35,
+  "address": {
+    "street": "Wube Heights",
+    "city": "Haedro",
+    "state": "MS",
+    "zip": "35888"
+  },
+  "contact": {
+    "phone": "(825) 580-7938",
+    "servicePhone": "800365289"
+  },
+  "birthday": "1982-12-16T12:22:42.488Z",
+  "ip": "146.150.112.85",
+  "foo": "bar",
+  "profile": {
+    "about": "Mu huwol ro vibe natlivso ahefu juil do enabi weogi jihpe salnapi faellih. Ohebowlak tiirwa jogda ebacad ir mo ridewras ces giheuk fen zalah ih. Runzov ba tup lagov ejobiwgut pa vacmefbac bowokeco subef gup ponanus ohno. Wut ena ve vul kaslak de ewsazded wi ca mantep ta rik ope wic lehi ju mi. Doc do pah do pal mebwi nooh osa sujaham izsah pin ruug pag bukgugraj bewbe medivum bajwawvi.",
+    "bio": "Atuajo ji uzajalel geic kanifoleb ifsug omno gurkoj fimad pe si boj re riv orkoeja medoka. Fa upo copahog luomo zisu gauga nez ava sa fefif hev tih im me zotaub. Az si runzedco anajubi gif guvufe ole nujhol zora luspawrub adaoci ina ahilo du umosisuk. Vodiptab okutos focaeni hiib sute ane uvab umpab davlogek vom za ofukoj dodkoca jizindoj pub bengekus tasujif farargac. Bedi rar rav lufur fopesfuz rewva dakzuli me meapima tag ku gomorab sul hag fehuzoma keminul diw uzkuz."
+  },
+  "apiKey": "bd021bb4d5f60c30468fdcd1a5313e96947a0240daae3521109bf9fc808122a7",
+  "currency": {
+    "code": "BGN",
+    "name": "Bulgaria Lev"
+  }
+}
