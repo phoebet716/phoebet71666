@@ -1,0 +1,26 @@
+{
+  "name": "Ruby Becker",
+  "age": 50,
+  "address": {
+    "street": "Koha Glen",
+    "city": "Manalu",
+    "state": "ND",
+    "zip": "06218"
+  },
+  "contact": {
+    "phone": "(955) 437-1997",
+    "servicePhone": "800354272"
+  },
+  "birthday": "1991-04-05T02:12:21.460Z",
+  "ip": "44.168.250.243",
+  "foo": "bar",
+  "profile": {
+    "about": "Ozagusuv pa votada damnez hogi fudap di bu casu vepsace zagbuwopa upe dikaw pacre. Kuane cicola levelib telnew iswemha jelanhup kut kem winfu nubuw ulbar jaz fopam ma luherpek woz. Jonne siluv gut rope kabgufew pa taliw wumar kauv zuubo iwuha ussalap tivnanluw sogur. Piwetgu ama pundichu wazih tidcogfo nuh inzut nuoji uzi eg vozu vuhhishol ed cu cudnov jikatvuw cudodute topwehja. Sedalve julis ne tutek kohralis focahi dif wa owo saj mecvusujo sigru ik teka ohi.",
+    "bio": "Ga azeubiime og jel do gimo zi van jase sahpun wuf dupepe ilesegduz muzzu foh. Fa olohuihe pemrec fojib wuvbu ev ezo pahajik gebu lowpiok ihsaowo jabivusi. Zaub biwuh ugaveg uko kinuk evowaiwe loabfe agguhtah sazir pujebu bogha nedakin zucveg nahuvi."
+  },
+  "apiKey": "88c301698be17247356942d7fa2ea09d8188e1f482113456e351829a9bcee617",
+  "currency": {
+    "code": "TRY",
+    "name": "Turkey Lira"
+  }
+}
