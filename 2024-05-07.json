@@ -1,0 +1,26 @@
+{
+  "name": "Ricky Griffin",
+  "age": 44,
+  "address": {
+    "street": "Kabum River",
+    "city": "Favutlu",
+    "state": "MO",
+    "zip": "90519"
+  },
+  "contact": {
+    "phone": "(885) 670-8893",
+    "servicePhone": "800589811"
+  },
+  "birthday": "1971-09-04T16:23:10.583Z",
+  "ip": "69.114.151.65",
+  "foo": "bar",
+  "profile": {
+    "about": "Wik jekorede pi lidod zahtapu bolzoz ep wodoh akiciv zupzek ol zengaf iljo ujutegi vokalwok mejteafi ce. Me demlu obopaj kiwebu nofgebago kiz ekwooh nu fuvaedo duvisuj zaato cumni. Das uc piv cehiz kag cidamo etlabu bupulo ifohe udilol hihfazo tah oga rut zud ka. Cerbik bihgamivo agi henuco foedo su ofmaw ujuzubve rimuceb vide weaca ci.",
+    "bio": "Al karataram roude ikiapuof remod rim galesgor miuhile ow ulejima fi adepicen. Zitocwu ropazi sev hiz atodak onemlo edeca nugvapeju pinoipu zom ze hepek mupu filhi tij. Towan idinut tibri zuav bi udioba hi icov cavcepo akihi waz dipzip upa pumikri ram hi ensev sicros."
+  },
+  "apiKey": "ec0edf5f760019bece2837384eff2f86ab9188a7e2d3236a0c4fcf6ca961ef4b",
+  "currency": {
+    "code": "GEL",
+    "name": "Georgia Lari"
+  }
+}
